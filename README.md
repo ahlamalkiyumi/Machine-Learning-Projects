@@ -1,2 +1,10 @@
-### Problem
-According to the World Health Organization (WHO), stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths. This dataset is used to predict whether a patient is likely to get a stroke based on input parameters like gender, age, various diseases, and smoking status. Each row in the data provides relevant information about the patient.
+### Machine Learning projects
+This file has machine learning projects on :
+1- Stroke
+2- Kyphosis
+
+The Notebooks includes:
+* Data Processing
+* Visualization
+* Machine Learning Model
+* Evaluation
