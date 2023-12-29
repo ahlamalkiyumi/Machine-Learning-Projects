@@ -1,7 +1,7 @@
 ### Machine Learning projects
 This file has machine learning projects on :
-1- Stroke
-2- Kyphosis
+* Stroke
+* Kyphosis
 
 The Notebooks includes:
 * Data Processing
