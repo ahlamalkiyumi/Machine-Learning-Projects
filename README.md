@@ -2,6 +2,7 @@
 This file has machine learning projects on :
 * Stroke
 * Kyphosis
+* Supervised learning: resource Simplilearn machine learning course 
 
 The Notebooks includes:
 * Data Processing
