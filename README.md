@@ -1,7 +1,8 @@
 ### Machine Learning projects
 This file has machine learning projects:
-* Stroke
+* Stroke prediction
 * Kyphosis
+* Heart disease prediction
 * Supervised learning: resource Simplilearn machine learning course 
 
 The Notebooks includes:
